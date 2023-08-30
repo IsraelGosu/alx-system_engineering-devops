@@ -5,3 +5,4 @@ the executable file 2-bring_me_home has a command changes working directory to h
 4-listmorefiles has a command to display current directory contents and hidden files starting with .
 5-listfilesdigitonly has a command that display contents in long format, user and group IDs numerically and hidden files with .
 6-firstdirectory has a command to create my first directory in tmp directory
+7-movethatfile has a script to move the file betty from tmp directory to my first directory in tmp directory
