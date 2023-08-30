@@ -7,3 +7,4 @@ the executable file 2-bring_me_home has a command changes working directory to h
 6-firstdirectory has a command to create my first directory in tmp directory
 7-movethatfile has a script to move the file betty from tmp directory to my first directory in tmp directory
 8-firstdelete has a script to delete the file betty from the /tmp/my_first_directory
+9-firstdirdeletion has the code to delete my first directory in the tmp directory
