@@ -9,3 +9,4 @@ README file for shell I/O Redirections and filters
 7.A script to Create file with a hard name and some words
 8.A script that write into a file
 9.A script to Duplicates last line of a file
+10.A script to Delete all regular files with a .js
