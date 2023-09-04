@@ -17,3 +17,8 @@ README file for shell I/O Redirections and filters
 15.A script to Display the number of lines that contain the pattern “bin” in the file /etc/passwd
 16.A script to Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 17.A script to Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+18.A script to Display all lines starting with a letter
+19.A script to Replace characters
+20.A script to Remove all letters cC from input
+21.A script to Reverse input
+22.A script to Display users and their home dirs
