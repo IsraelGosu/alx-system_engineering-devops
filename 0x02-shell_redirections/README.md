@@ -4,3 +4,4 @@ README file for shell I/O Redirections and filters
 2.A script to Display content of /etc/passwd file
 3.A script to Display content of two files
 4.A script to Display the last 10 lines of a file
+5.A script to Display the first 10 lines of /etc/passwd
