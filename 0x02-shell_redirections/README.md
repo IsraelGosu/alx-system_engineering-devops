@@ -13,3 +13,4 @@ README file for shell I/O Redirections and filters
 11.A script to Counts dirs recursively
 12.A script to Display 10 newest files
 13.A script to Print words that appear exactly once
+14.A script to Display lines containing the pattern “root” from the file /etc/passwd
