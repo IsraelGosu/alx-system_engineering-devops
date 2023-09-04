@@ -6,3 +6,4 @@ README file for shell I/O Redirections and filters
 4.A script to Display the last 10 lines of a file
 5.A script to Display the first 10 lines of /etc/passwd
 6.A script to Display the third line of the file iacta
+7.A script to Create file with a hard name and some words
