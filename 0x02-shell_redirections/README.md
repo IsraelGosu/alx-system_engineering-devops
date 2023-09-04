@@ -12,3 +12,4 @@ README file for shell I/O Redirections and filters
 10.A script to Delete all regular files with a .js
 11.A script to Counts dirs recursively
 12.A script to Display 10 newest files
+13.A script to Print words that appear exactly once
