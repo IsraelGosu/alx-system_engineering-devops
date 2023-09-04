@@ -14,3 +14,4 @@ README file for shell I/O Redirections and filters
 12.A script to Display 10 newest files
 13.A script to Print words that appear exactly once
 14.A script to Display lines containing the pattern “root” from the file /etc/passwd
+15.A script to Display the number of lines that contain the pattern “bin” in the file /etc/passwd
